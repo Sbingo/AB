@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">AB</string>
+    <string name="app_name">老司机</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <string name="description">系好安全带，发车了！</string>
+    <string name="path">目标文件路径：\\www\\rrr.txt"</string>
+    <string name="service_switch">开启功能</string>
+    <string name="start">开始作业</string>
 </resources>
